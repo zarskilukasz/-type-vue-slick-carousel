@@ -1,1 +1,2 @@
-# -type-vue-slick-carousel
+# Type vue-slick-carousel
+Types for settings 
