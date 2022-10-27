@@ -1,5 +1,5 @@
 {
-  "name": "@type/vue-slick-carousel",
+  "name": "type-vue-slick-carousel",
   "version": "1.0.0",
   "description": "type for settings",
   "main": "index.d.ts",
