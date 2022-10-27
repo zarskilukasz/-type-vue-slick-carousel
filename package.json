@@ -1,0 +1,23 @@
+{
+  "name": "@type/vue-slick-carousel",
+  "version": "1.0.0",
+  "description": "type for settings",
+  "main": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zarskilukasz/-type-vue-slick-carousel.git"
+  },
+  "keywords": [
+    "typescript",
+    "vue-sclick-carousel"
+  ],
+  "author": "zarskilukasz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zarskilukasz/-type-vue-slick-carousel/issues"
+  },
+  "homepage": "https://github.com/zarskilukasz/-type-vue-slick-carousel#readme"
+}
